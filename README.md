@@ -48,4 +48,4 @@ streamlit run your_script.py
 Feel free to fork the repository and submit pull requests with improvements!
 
 ## Contact
-For any inquiries, reach out to [your-email@example.com](aarushi.sharma1227@gmail.com).
+For any inquiries, reach out to [aarushi.sharma1227@gmail.com](aarushi.sharma1227@gmail.com).
