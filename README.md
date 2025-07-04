@@ -1,4 +1,4 @@
-# ICTE-internship-on-AI-Project-1-AI-powered-Resume-Screening-and-Ranking-System
+# AICTE-internship-on-AI-Project-1-AI-powered-Resume-Screening-and-Ranking-System
 AICTE Internship on AI: Transformative Learning  with  TechSaksham – A joint CSR initiative of Microsoft &amp; SAP
 
 # AI Resume Screening & Candidate Ranking System
